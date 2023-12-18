@@ -15,6 +15,7 @@ const Navbar = () => {
                 title='Sign In'
                 btnType= 'button'
                 containerStyles='text-[#588157] rounded-full bg-white min-w-[130px]'
+                
                 />
         </nav>
     </header>

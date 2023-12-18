@@ -12,7 +12,7 @@ const Hero = () => {
     <div className="hero">
         <div className='flex-1 pt-10 padding-x'>
             {/* BEM Methodology -hero is the block, title is the element within the block */}
-            <h1 className='hero__title '>Find, Rent, or Book — your ideal ride with ease</h1>
+            <h1 className='hero__title '>Find, Rent, or Book — your ideal ride with ease!</h1>
             <p className='hero__subtitle'>Unleash Your Drive, Elevate Your Style: Where Dreams Meet the Open Road!</p>
             <CustomButton 
               title="Discover your drive"
